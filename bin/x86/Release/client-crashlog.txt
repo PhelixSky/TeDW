@@ -1,0 +1,42 @@
+29.03.2017 21:02:19
+Microsoft.Xna.Framework.Content.ContentLoadException: Error loading "PixelShader". File not found. ---> System.IO.FileNotFoundException: Error loading "Content\PixelShader.xnb". File not found.
+   at Microsoft.Xna.Framework.TitleContainer.OpenStream(String name)
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   --- End of inner exception stack trace ---
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at Terraria.Main.LoadContent() in C:\Users\Phelix\Desktop\1344base\Terraria\Main.cs:line 6582
+   at Microsoft.Xna.Framework.Game.Initialize()
+   at Terraria.Main.Initialize() in C:\Users\Phelix\Desktop\1344base\Terraria\Main.cs:line 6503
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Terraria.Program.LaunchGame(String[] args) in C:\Users\Phelix\Desktop\1344base\Terraria\Program.cs:line 113
+
+29.03.2017 21:04:16
+Microsoft.Xna.Framework.Content.ContentLoadException: Error loading "PixelShader". File not found. ---> System.IO.FileNotFoundException: Error loading "Content\PixelShader.xnb". File not found.
+   at Microsoft.Xna.Framework.TitleContainer.OpenStream(String name)
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   --- End of inner exception stack trace ---
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at Terraria.Main.LoadContent() in C:\Users\Phelix\Desktop\1344base\Terraria\Main.cs:line 6582
+   at Microsoft.Xna.Framework.Game.Initialize()
+   at Terraria.Main.Initialize() in C:\Users\Phelix\Desktop\1344base\Terraria\Main.cs:line 6503
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Terraria.Program.LaunchGame(String[] args) in C:\Users\Phelix\Desktop\1344base\Terraria\Program.cs:line 113
+
+30.03.2017 7:36:52
+Microsoft.Xna.Framework.Content.ContentLoadException: Error loading "PixelShader". File not found. ---> System.IO.FileNotFoundException: Error loading "Content\PixelShader.xnb". File not found.
+   at Microsoft.Xna.Framework.TitleContainer.OpenStream(String name)
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   --- End of inner exception stack trace ---
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at Terraria.Main.LoadContent() in C:\Users\Phelix\Desktop\1344base\Terraria\Main.cs:line 6582
+   at Microsoft.Xna.Framework.Game.Initialize()
+   at Terraria.Main.Initialize() in C:\Users\Phelix\Desktop\1344base\Terraria\Main.cs:line 6503
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Terraria.Program.LaunchGame(String[] args) in C:\Users\Phelix\Desktop\1344base\Terraria\Program.cs:line 113
+
